@@ -4,11 +4,9 @@ About: Created a portfolio website by using HTML and CSS. Added links to my curr
 
 How to access Portfolio:
 
-Use the following website URL to access the Weather Dashboard: https://srahman9.github.io/weather-dashboard/
-Use the following GitHub URL to access the Weather Dashboard repo: https://git@github.com:srahman9/weather-dashboard.git
+Use the following website URL to access the Portfolio: https://srahman9.github.io/Portfolio/
+Use the following GitHub URL to access the Portfolio repo: https://github.com/srahman9/Portfolio.git
 
 Picture of Deployed application
 
-![portfolio-dashboard]()
-
-![weather-dashboard](https://user-images.githubusercontent.com/32348687/148527166-a8934730-601a-4ec4-a9ae-c8e6e9289b83.PNG)
+![portfolio-dashboard](https://github.com/srahman9/Portfolio/blob/main/image/portfolio-dashboard.PNG)
