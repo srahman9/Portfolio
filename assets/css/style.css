@@ -172,10 +172,30 @@ section {
 
 .flex-row {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#wnsProj {
+  width: 10%;
+  flex-wrap: wrap-reverse;
+}
+
+#weatherProj {
+  width: 10%;
+  flex-wrap: wrap-reverse;
+}
+
+#workProj {
+  width: 10%;
+  flex-wrap: wrap-reverse;
+}
+#passwordProj {
+  width: 10%;
+  flex-wrap: wrap-reverse;
 }
 
 /* Contact Styles end */
-
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
@@ -234,4 +254,4 @@ section {
 
 .contact-info {
   text-align: center;
-
+}
